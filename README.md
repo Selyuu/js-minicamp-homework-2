@@ -1,3 +1,5 @@
+CHANGING TEXT AT THE TOP TO TEST GIT COMMIT. TEST.
+
 # Homework #2
 
 ## Instructions
